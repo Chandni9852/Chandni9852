@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm Chandni  
 
-# 👋 Hi, I'm Chandni  
-
 🎓 Engineering student passionate about **AI, Machine Learning, and Generative AI**, with a strong foundation in **Data Structures & Algorithms (DSA)**.  
 💡 I love solving problems and building projects that bring together **ML models, full-stack development, and cybersecurity concepts**.  
 🚀 Currently, I’m working on deploying my projects, experimenting with GenAI applications, and pushing my skills beyond just theory into **real-world impact**.  
