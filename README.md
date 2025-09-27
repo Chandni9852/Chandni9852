@@ -25,15 +25,27 @@
 ## 🚀 Projects I'm Building
 - 🛡️ **Insider Threat Detection System** – Detecting file tampering + anomaly detection with ML.  
 - 🛰️ **AI-Assisted Space Station Maintenance** – Fire-risk analysis using YOLO + FastAPI + React.  
-- 📚 **Notes AI** – "Chat with your notes" + AI-powered MCQ generator from PDFs.  
+- 🌍 **Jharkhand 360** – An interactive web platform showcasing Jharkhand’s culture, tourism, and resources using full-stack development + data visualization.  
+- 🩺 **Petora** – AI-powered skin disease detection app both for humans and pet animals, integrating FastAPI backend with React frontend for real-time medical insights.  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandni9852&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni9852&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandni9852&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Chandni9852&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni9852&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandni9852&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandni9852&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+</p>
+
 
 ---
 
